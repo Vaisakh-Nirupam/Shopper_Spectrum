@@ -40,7 +40,7 @@ rfm_labels = {
 # Streamlit UI:
 
 # Page Config:
-st.set_page_config(layout="centered")
+st.set_page_config(page_title='Shopper Spectrum',layout="centered")
 st.title("🛍️ Shopper Spectrum App")
 
 # CSS:
