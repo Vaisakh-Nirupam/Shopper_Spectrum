@@ -30,14 +30,11 @@ scaler = bundle["scaler"]
 
 # Cluster labels:
 rfm_labels = {
-    0: "Occasional",
+    0: "Regular",
     1: "At-Risk",
-    2: "Loyal",
-    3: "High-Value",
-    4: "Regular",
-    5: "Whale"
+    2: "High-Value",
+    3: "Occasional"
 }
-
 
 
 # Streamlit UI:
